@@ -1,5 +1,5 @@
 # Your code goes here!
-class dog 
+class Dog 
   
   def name = dog_name 
     @name = dog_name 
@@ -9,5 +9,9 @@ class dog
     @name
   end 
   
- 
-  end 
+class dog 
+    def bark
+    puts "woof!"
+    
+end 
+ end 
