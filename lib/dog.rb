@@ -1,11 +1,11 @@
 # Your code goes here!
 class Dog 
   
-  def initialize()
-  @name=dog_name
+  def initialize(.name=)
+  @name=.name=
 end 
 
-def dog_name
+def .name=
   @name 
 end 
 
