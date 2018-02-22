@@ -9,8 +9,8 @@ class dog
     @name
   end 
   
-  def bark 
+  class  bark 
     puts "woof!"
     
-  end 
+end 
   end 
